@@ -1,0 +1,21 @@
+/*navigation*/
+#preferrednav{
+    background-color:#B76E79 !important;
+}
+.navbar {
+    opacity: 0.5;
+}
+
+
+/*header*/
+
+.header{
+    background-image: url("https://www.crystalgraphicsimages.com/photo/3d-illustration-isolated-rose-gold-diamond-engagement_cg2p44860199c_th.jpg");
+    background-size: 100% 100%;
+    height: 400px;
+}
+.headers{
+    text-align: center;
+    padding: 120px;
+    color: #;
+}
